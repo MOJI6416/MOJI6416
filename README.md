@@ -29,12 +29,13 @@ A Minecraft launcher for Windows, macOS and Linux. Installs versions and mod loa
 </td>
 <td width="50%" valign="top">
 
-<img src="assets/lumovio.png" width="64" alt="Lumovio">
+<a href="https://lumovio.app"><img src="assets/lumovio.png" width="64" alt="Lumovio"></a>
 
-### Lumovio
+### [Lumovio](https://lumovio.app)
 
 One account and one history for films, series and anime, wherever you actually watch them. Catalog and watchlists, progress tracking, your own Jellyfin and Plex servers in a built-in player, and a TV mode with QR sign-in.
 
+<a href="https://lumovio.app"><img src="https://img.shields.io/badge/web-lumovio.app-dcfa63?style=flat-square&labelColor=555" alt="lumovio.app"></a>
 <img src="https://img.shields.io/badge/status-in%20development-dcfa63?style=flat-square&labelColor=555" alt="In development">
 
 <sub>Next.js · Fastify · PostgreSQL · Redis</sub>

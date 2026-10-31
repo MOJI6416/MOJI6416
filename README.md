@@ -36,6 +36,8 @@ A Minecraft launcher for Windows, macOS and Linux. Installs versions and mod loa
 One account and one history for films, series and anime, wherever you actually watch them. Catalog and watchlists, progress tracking, your own Jellyfin and Plex servers in a built-in player, and a TV mode with QR sign-in.
 
 <a href="https://lumovio.app"><img src="https://img.shields.io/badge/web-lumovio.app-dcfa63?style=flat-square&labelColor=555" alt="lumovio.app"></a>
+<a href="https://github.com/MOJI6416/lumovio-web/releases/latest"><img src="https://img.shields.io/github/v/release/MOJI6416/lumovio-web?style=flat-square&label=release&color=dcfa63&labelColor=555" alt="Latest release"></a>
+<a href="https://github.com/MOJI6416/lumovio-web/stargazers"><img src="https://img.shields.io/github/stars/MOJI6416/lumovio-web?style=flat-square&color=dcfa63&labelColor=555" alt="Stars"></a>
 <img src="https://img.shields.io/badge/status-in%20development-dcfa63?style=flat-square&labelColor=555" alt="In development">
 
 <sub>Next.js · Fastify · PostgreSQL · Redis</sub>

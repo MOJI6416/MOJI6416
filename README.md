@@ -38,6 +38,7 @@ One account and one history for films, series and anime, wherever you actually w
 <a href="https://lumovio.app"><img src="https://img.shields.io/badge/web-lumovio.app-dcfa63?style=flat-square&labelColor=555" alt="lumovio.app"></a>
 <a href="https://github.com/MOJI6416/lumovio-web/releases/latest"><img src="https://img.shields.io/github/v/release/MOJI6416/lumovio-web?style=flat-square&label=release&color=dcfa63&labelColor=555" alt="Latest release"></a>
 <a href="https://github.com/MOJI6416/lumovio-web/stargazers"><img src="https://img.shields.io/github/stars/MOJI6416/lumovio-web?style=flat-square&color=dcfa63&labelColor=555" alt="Stars"></a>
+
 <sub>Next.js · Fastify · PostgreSQL · Redis</sub>
 
 </td>
